@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AADI1224
 - 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...c/c++ & Python   
-- 💞️ I’m looking to collaborate on ...c++ & Python   
+- 🌱 I’m currently learning ...C/C++ & Python   
+- 💞️ I’m looking to collaborate on ...C++ & Python   
 - 📫 How to reach me ... aadityachouhan787898@gmail.com
 
 <!---
