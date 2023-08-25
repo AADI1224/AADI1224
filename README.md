@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AADITYA_787898
+- 👋 Hi, I’m AADITYA CHOUHAN aka @AADITYA_787898
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...C/C++ & Python   
 - 💞️ I’m looking to collaborate on ...C++ & Python   
