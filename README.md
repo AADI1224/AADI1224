@@ -13,7 +13,7 @@
 🚀 Passionate **Python Full-Stack Developer** & **MERN Stack Enthusiast**  
 🌱 Currently **learning & mastering** Web Development  
 💡 I love working with **Python, Django, React, and Machine Learning**  
-✍️ I also enjoy writing **Poetry & Ghazals**  
+✍️ I also enjoy writing **Poetries**  
 📜 **"Code is poetry, and I write both!"**  
 
 ### 📬 **Let's Connect**  
