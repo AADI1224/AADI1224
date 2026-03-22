@@ -17,7 +17,7 @@
 📜 **"Code is poetry, and I write both!"**  
 
 ### 📬 **Let's Connect**  
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/aaditya-chouhan-76b71622b/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
