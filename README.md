@@ -3,13 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=32CD32&width=550&lines=🚀+Hi,+I'm+Aaditya!;🐍+Python+💻+Full-Stack+Developer;⚡+MERN+Stack+Enthusiast;🌍+Django+Developer;🤖+Machine+Learning+Enthusiast;📚+Passionate+Learner;✍️+Poetry+Lover!" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" />
-</p>
-
 ---
 
-💼 Primary Professional Focus — Data Engineering
+## 💼 Primary Professional Focus — Data Engineering
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRIMARY%20ROLE-Data%20Engineer-0B7285?style=for-the-badge&logo=databricks&logoColor=white" />
@@ -20,21 +16,16 @@
   <b>Building cloud-based data pipelines, migrating legacy workloads, and developing scalable data processing solutions on AWS.</b>
 </p>
 
-🚀 Professional Experience
+### 🚀 Professional Experience
 
-Data Engineer at Tata Consultancy Services (TCS) — Contributed to enterprise data migration from Dell Boomi to AWS Glue.
+- **Data Engineer at Tata Consultancy Services (TCS):** Contributed to enterprise data migration from Dell Boomi to AWS Glue.
+- **Data Processing:** Developed and enhanced data processing jobs using Python, PySpark, and SQL.
+- **AWS Cloud:** Hands-on experience with AWS Glue, Amazon S3, AWS Lambda, AWS CloudFormation, IAM, and Glue Crawlers.
+- **Data Quality:** Worked on schema-drift handling, SQL validation using Amazon Athena, and record-level validation of migrated data.
+- **Workflow Automation:** Implemented Lambda-based scheduling and configuration for full and incremental data loads.
+- **Infrastructure as Code:** Created infrastructure repositories using existing CloudFormation templates and contributed to CI/CD deployments.
 
-Data Processing: Developed and enhanced data processing jobs using Python, PySpark, and SQL.
-
-AWS Cloud: Hands-on experience with AWS Glue, Amazon S3, AWS Lambda, AWS CloudFormation, IAM, and Glue Crawlers.
-
-Data Quality: Worked on schema-drift handling, SQL validation using Amazon Athena, and record-level validation of migrated data.
-
-Workflow Automation: Implemented Lambda-based scheduling and configuration for full and incremental data loads.
-
-Infrastructure as Code: Created infrastructure repositories using existing CloudFormation templates and contributed to CI/CD deployments.
-
-🛠️ Data Engineering Tech Stack
+### 🛠️ Data Engineering Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -47,6 +38,14 @@ Infrastructure as Code: Created infrastructure repositories using existing Cloud
   <img src="https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git%20%26%20CI%2FCD-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" />
+</p>
+
+---
 
 ## **👨‍💻 About Me**
 🚀 Passionate **Python Full-Stack Developer** & **MERN Stack Enthusiast**  
