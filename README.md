@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=800&lines=Data+Engineering+%7C+AWS+Cloud;Building+Data+Pipelines+with+PySpark;Legacy+Data+Migration+%7C+AWS+Glue;Python+%7C+SQL+%7C+CloudFormation;Machine+Learning+%7C+Data+Science" alt="Typing SVG" />
 </p>
+
 ---
 
 ## 💼 About Me
