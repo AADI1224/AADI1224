@@ -9,6 +9,45 @@
 
 ---
 
+💼 Primary Professional Focus — Data Engineering
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PRIMARY%20ROLE-Data%20Engineer-0B7285?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Enterprise%20Experience-TCS-5E35B1?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>Building cloud-based data pipelines, migrating legacy workloads, and developing scalable data processing solutions on AWS.</b>
+</p>
+
+🚀 Professional Experience
+
+Data Engineer at Tata Consultancy Services (TCS) — Contributed to enterprise data migration from Dell Boomi to AWS Glue.
+
+Data Processing: Developed and enhanced data processing jobs using Python, PySpark, and SQL.
+
+AWS Cloud: Hands-on experience with AWS Glue, Amazon S3, AWS Lambda, AWS CloudFormation, IAM, and Glue Crawlers.
+
+Data Quality: Worked on schema-drift handling, SQL validation using Amazon Athena, and record-level validation of migrated data.
+
+Workflow Automation: Implemented Lambda-based scheduling and configuration for full and incremental data loads.
+
+Infrastructure as Code: Created infrastructure repositories using existing CloudFormation templates and contributed to CI/CD deployments.
+
+🛠️ Data Engineering Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFormation-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20%26%20CI%2FCD-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
 ## **👨‍💻 About Me**
 🚀 Passionate **Python Full-Stack Developer** & **MERN Stack Enthusiast**  
 🌱 Currently **learning & mastering** Web Development  
