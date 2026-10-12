@@ -162,10 +162,6 @@ Built a MERN-stack task management application with authentication, CRUD operati
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AADI1224&theme=tokyo-night" alt="GitHub contribution graph" />
-</p>
-
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/> </p>
 
 ---
